@@ -36,7 +36,7 @@ document.writeln("<div id=\"leftDiv\" style=\"top:55px;left:10px\">");
 //------左侧各块开始
 //---L2
 document.writeln("<div id=\"left2\" class=\"itemFloat\">");
-document.writeln("<img border=0 src='https://cdn.jsdelivr.net/gh/zhangsixiang/tqlFile@master/files/left1.png'>");
+document.writeln("<img border=0 src='https://cdn.jsdelivr.net/gh/zhangsixiang/tqlFile@master/files/left2.png'>");
 document.writeln("<br><a href=\"javascript:close_left2();\" title=\"点击关闭\">×<\/a>");
 document.writeln("<\/div>");
 //------左侧各块结束
